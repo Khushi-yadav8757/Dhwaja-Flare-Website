@@ -25,15 +25,6 @@ A modern and responsive marketing agency website built for **Dhwaja Flare**. The
 - JavaScript
 - GitHub Pages (Deployment)
 
-- Dhwaja-Flare-Website/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│ ├── logo.png
-│ ├── hero-image.jpg
-│ └── ...
 
 
 ## 🎯 Services Highlighted
@@ -46,12 +37,7 @@ A modern and responsive marketing agency website built for **Dhwaja Flare**. The
 - Data-Driven Campaign Intelligence
 
 
-## 🚀 Deployment
 
-This project is deployed using GitHub Pages.
-
-Live URL:
-https://khushi-yadav8757.github.io/Dhwaja-Flare-Website/
 
 ## 👩‍💻 Developer
 
