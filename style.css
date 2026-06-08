@@ -1,0 +1,18 @@
+/* Custom Animations */
+.fade-in { 
+    opacity: 0; 
+    transform: translateY(30px); 
+    transition: all 0.8s ease-out; 
+}
+
+.fade-in.visible { 
+    opacity: 1; 
+    transform: translateY(0); 
+}
+
+.hero-bg {
+    /* Keeps a professional corporate/political background for the main screen */
+    background-image: linear-gradient(rgba(11, 31, 77, 0.9), rgba(11, 31, 77, 0.8)), url('https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+}
